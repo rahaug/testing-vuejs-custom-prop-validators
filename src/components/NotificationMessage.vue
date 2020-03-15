@@ -40,7 +40,7 @@
   }
 </script>
 
-<style lang="postcss" scoped>
+<style scoped>
 
 .message {
   @apply py-2 px-4 border-2 rounded-lg text-left relative my-2;
